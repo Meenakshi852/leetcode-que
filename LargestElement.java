@@ -11,7 +11,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Solution {
+public class LargestElement {
 
     static int largestElement(int[] arr, int n) {
         int max = arr[0];
